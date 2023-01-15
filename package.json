@@ -1,6 +1,6 @@
 {
   "name": "msamc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Login to Minecraft (Java) using a Microsoft account.",
   "main": "index.js",
   "repository": {
