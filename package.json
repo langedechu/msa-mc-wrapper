@@ -1,0 +1,29 @@
+{
+  "name": "msa-mc-wrapper",
+  "version": "1.0.0",
+  "description": "Login to Minecraft (Java) using a Microsoft account.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/langedechu/msa-mc-wrapper.git"
+  },
+  "scripts": {
+    "build": "tsc index.js",
+    "test": ".\\test.cmd"
+  },
+  "keywords": [],
+  "author": {
+    "name": "langedechu",
+    "email": "contact.nocteria@gmail.com"
+  },
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/langedechu/msa-mc-wrapper/issues"
+  },
+  "homepage": "https://github.com/langedechu/msa-mc-wrapper#readme",
+  "dependencies": {
+    "@types/node": "^18.11.18",
+    "axios": "^1.2.2",
+    "typescript": "^4.9.4"
+  }
+}
