@@ -100,6 +100,10 @@ Under the "Overview" tab, you will find the "Application (client) ID". This is y
 
 ![Alt text](images/preview1.png)
 
+After that, you can go to the "Authentication" tab and check both checkboxes under "Advanced settings".
+
+![Alt text](images/preview2.png)
+
 ## License
 
 [GNU General Public License V3.0](https://choosealicense.com/licenses/gpl-3.0/)
