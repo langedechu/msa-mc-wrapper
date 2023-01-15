@@ -14,7 +14,7 @@ npm install msamc
 ### Without MLC:
 
 ```js
-const msamc = require("msamc");
+const msamc = require("msamc").default;
 
 new msamc("YOUR_APP_ID").Authenticate().then((auth) => {
   console.log(auth);
@@ -64,7 +64,7 @@ The `auth` object will contain the following properties after a successful authe
 ### With MLC:
 
 ```js
-const msamc = require("msamc");
+const msamc = require("msamc").default;
 
 const mlc = require("minecraft-launcher-core");
 
