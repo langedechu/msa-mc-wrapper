@@ -1,5 +1,5 @@
 {
-  "name": "msa-mc-wrapper",
+  "name": "msamc",
   "version": "1.0.0",
   "description": "Login to Minecraft (Java) using a Microsoft account.",
   "main": "index.js",
