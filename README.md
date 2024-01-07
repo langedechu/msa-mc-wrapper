@@ -3,6 +3,10 @@
 - 💻 Login to Minecraft (Java) using a Microsoft account.
 - 👌 Compatible with MLC ([minecraft-launcher-core](https://www.npmjs.com/package/minecraft-launcher-core)).
 
+### ⚠️ IMPORTANT NOTE
+
+Microsoft has been going through a lot of changes these past months. This authenticaiton method will not work on new applications because they need to get validated by Microsoft. You can submit your application through [this form](https://discord.com/channels/@me/1192775061254455308/1193637489030737942) and kindly wait for Microsoft to answer your request.
+
 ## Installation
 
 ```bash
