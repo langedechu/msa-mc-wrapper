@@ -5,7 +5,7 @@
 
 ### ⚠️ IMPORTANT NOTE
 
-Microsoft has been going through a lot of changes these past months. This authenticaiton method will not work on new applications because they need to get validated by Microsoft. You can submit your application through [this form](https://discord.com/channels/@me/1192775061254455308/1193637489030737942) and kindly wait for Microsoft to answer your request.
+Microsoft has been going through a lot of changes these past months. This authenticaiton method will not work on new applications because they need to get validated by Microsoft. You can submit your application through [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR-ajEQ1td1ROpz00KtS8Gd5UNVpPTkVLNFVROVQxNkdRMEtXVjNQQjdXVC4u) and kindly wait for Microsoft to answer your request.
 
 ## Installation
 
